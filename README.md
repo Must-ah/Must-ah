@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Must-ah
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning SQL, kubernetes, Practices of the Python Pro, and Five Lines of Code.
+- 🌱 I’m currently learning image Segmentation, kubernetes, Practices of the Python Pro, Five Lines of Code, and SQL.
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mustah/)
 
